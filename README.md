@@ -1,1 +1,2 @@
-# SP500
+S&P 500 Historical Data Scraper
+===============================
